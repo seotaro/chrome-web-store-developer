@@ -1,3 +1,4 @@
 # Chromeウェブストア デベロッパー用ファイル
 
-- [プライバシーポリシー](privacy-policy.md)
+- NHK on demand downloader
+  - [プライバシーポリシー](nhk-on-demand-downloader/privacy-policy.md)
